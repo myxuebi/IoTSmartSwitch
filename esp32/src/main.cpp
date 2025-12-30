@@ -15,7 +15,7 @@ String accountPassword = "123456";
 String token = "";
 
 // 电脑的MAC地址
-const char *macAddress = "08:BF:B8:D2:EA:FB";
+const char *macAddress = "";
 
 WiFiUDP UDP;
 WakeOnLan WOL(UDP); // 创建WakeOnLan对象
