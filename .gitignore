@@ -1,0 +1,12 @@
+开题报告.docx
+mobile/.dart_tool
+mobile/.idea
+mobile/build
+mobile/android/app/debug
+mobile/android/app/profile
+mobile/android/app/release
+backend/.gradle
+backend/.idea
+backend/build
+esp32/.pio
+esp32/.vscode
