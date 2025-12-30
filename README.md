@@ -53,4 +53,6 @@ Ps：
 mobile 需要修改 mobile/lib/config/frontConfig.dart 内的IP为服务器IP（必须）
 esp32 与 esp32PcController 根据代码注释修改配置文件（必须）
 springboot根据有需要修改application.properties（可选）
+
+esp32要和esp32PcController在同一局域网内
 ```
